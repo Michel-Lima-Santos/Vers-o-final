@@ -17,7 +17,7 @@ int main()
 	pont = pessoa;
 	int x, mesnasc;
 
-	printf("====================Registre 12 contatos====================\n");
+	printf("===============Registre 12 contatos====================\n");
 
 	for (x = 0; x < 12; x++)
 	{
